@@ -1,0 +1,1 @@
+export const buttonFontSize = 17;
